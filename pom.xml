@@ -28,6 +28,12 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
 	</properties>
+	
+	<server>
+      <id>nexus</id>
+      <username>admin</username>
+      <password>admin123</password>
+       </server>
 
 	<dependencies>
 		
