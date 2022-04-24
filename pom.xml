@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.226.8.52:4000/repository/payrepo/</url>
+	      <url>http://54.158.180.157:4000/repository/payrepo/</url>
 	    </repository>
 	     
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.226.8.52:4000/repository/payreposnap/</url>
+	      <url>http://54.158.180.157:4000/repository/payreposnap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
